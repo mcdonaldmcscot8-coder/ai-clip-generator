@@ -1,0 +1,11 @@
+flask==3.0.0
+flask-cors==4.0.0
+yt-dlp
+ffmpeg-python==0.2.1
+openai-whisper
+librosa
+soundfile
+numpy
+python-dotenv
+requests
+tqdm
